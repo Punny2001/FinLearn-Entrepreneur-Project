@@ -1,2 +1,1 @@
-# AIS Data Engineer and Data Analyst
- AIS working that positioned as Data Engineer and Data Analyst including internship work (NGCM Monitoring), educational training, and AIS Innovative Project.
+The FinLearn Entrepreneur Project is part of an internship at Advanced Info Services collaborating with Stanford University. FinLearn is a start-up project about EdTech focusing on solving problems from online learning and improving the way to study an online class regarding socializing and successfully future with fundamental knowledge without traveling outside home.
